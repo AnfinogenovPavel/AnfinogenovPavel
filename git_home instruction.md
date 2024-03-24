@@ -9,3 +9,9 @@ cd c:\folder_name
 ```sh
 pwd
 ```
+
+3. листинг текущей дириктории 
+windows:
+```sh
+dir
+```
