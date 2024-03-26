@@ -30,3 +30,8 @@ git branch
 ```sh
 git checkout <naim>
 ```
+
+7. **Комманда слияния веток**
+```sh
+merge
+``` 
