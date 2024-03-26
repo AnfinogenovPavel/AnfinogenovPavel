@@ -25,3 +25,8 @@ del <file_name>
 ```sh
 git branch
 ```
+
+6. **Переключение между ветками**
+```sh
+git checkout <naim>
+```
