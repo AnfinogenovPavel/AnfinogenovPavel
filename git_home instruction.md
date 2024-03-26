@@ -33,5 +33,5 @@ git checkout <naim>
 
 7. **Комманда слияния веток**
 ```sh
-merge
+git merge
 ``` 
