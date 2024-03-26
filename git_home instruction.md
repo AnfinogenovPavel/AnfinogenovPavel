@@ -20,3 +20,8 @@ dir
 ```sh
 del <file_name>
 ```
+
+5. **Ветки**
+```sh
+git branch
+```
