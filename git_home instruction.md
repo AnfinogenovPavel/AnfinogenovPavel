@@ -31,6 +31,10 @@ git branch
 git checkout <naim>
 ```
 
+7. **Команда на вытягивания**
+8. ```sh
+   git pull```
+
 7. **Комманда слияния веток**
 ```sh
 git merge
